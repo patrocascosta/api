@@ -197,7 +197,7 @@
 	"descricao":"An anthology series featuring rampaging serial killers leaving carnage in their wake as their next victims fight to stay alive.",
 	"imdb":6.7,
 	"image":"https://www.imdb.com/title/tt4667888/mediaviewer/rm2485164545",
-	"id_categoria":15
+	"id_categoria":15,
 	"episodios":[8,8]
 	},
 
@@ -211,7 +211,7 @@
 	"id_categoria":16,
 	"episodios":[26,26,13]
 	},		
-]
+],
 
 
 
